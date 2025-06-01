@@ -4,3 +4,162 @@ body {
   text-align: center;
   padding-top: 50px;
 }
+
+li {
+  display: inline;
+  float: center;
+
+}
+
+ul{
+  background-color: black; 
+  display: block; 
+  padding: 100px;
+}
+
+a{
+  text-decoration: none; 
+  padding: 90px; 
+  font-size:50px; 
+  color: white;
+}
+
+
+h1{
+  font-size: 200px; 
+  color: black; 
+  font-family; San Fransico;
+}
+
+h2{
+  font-size: 150px; 
+  color: black; 
+  font-family; San Fransico;
+}
+
+
+
+
+.button {
+  border: none;
+  border-radius: 16px;
+  
+  color: white;
+  padding: 50px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 100px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: black;
+  transform: scale(1.05);
+}
+
+.button1 {
+  background-color: black; /* Apple-style blue */
+}
+
+.button1:hover {
+  background-color: grey;
+  
+}
+
+.button2 {
+  background-color: black;
+  color: white;
+}
+
+.button2:hover {
+  background-color: grey;
+  color: white;
+}
+
+.bottom-section {
+  background-color: lightgrey;  /* Light grey */
+  color: #1d1d1f;             /* Apple-style dark text */
+  padding: 60px 50px;
+  text-align: center;
+  font-family: San Francisco;
+}
+
+.bottom-section h2 {
+  font-size: 100px;
+  margin-bottom: 100px;
+}
+
+.bottom-section p {
+  font-size: 60px;
+  margin: 0;
+}
+
+
+.button-container {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 150px;
+  
+}
+
+}
+
+.image-section {
+  margin-bottom: 150px; 
+  text-align: center;
+}
+
+.image-section img {
+  width: 100%;     
+  height: auto;
+  max-width: 1000px;
+  margin: 0 auto;
+  border-radius: 20px;
+
+}
+
+
+ /* ------------------------------------------------------------------------------------------------------- */
+ /* Watch.html styles*/
+
+
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 40px;
+  gap: 40px;
+}
+
+.box {
+  background-color: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  width: 45%;
+  text-align: center;
+}
+
+.box img {
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.box h2 {
+  font-size: 60px;
+  margin-bottom: 10px;
+  
+}
+
+.box p {
+  font-size: 50px;
+  color: #333;
+}
+
+
+
+
+
+
