@@ -1,6 +1,5 @@
 body {
   background-color: #f0f0f0;
-  font-family: Arial, sans-serif;
   text-align: center;
   padding-top: 50px;
 }
@@ -28,13 +27,13 @@ a{
 h1{
   font-size: 200px; 
   color: black; 
-  font-family; San Fransico;
+
 }
 
 h2{
   font-size: 150px; 
   color: black; 
-  font-family; San Fransico;
+ 
 }
 
 
@@ -43,7 +42,6 @@ h2{
 .button {
   border: none;
   border-radius: 16px;
-  
   color: white;
   padding: 50px 40px;
   text-align: center;
@@ -82,7 +80,7 @@ h2{
   color: #1d1d1f;             /* Apple-style dark text */
   padding: 60px 50px;
   text-align: center;
-  font-family: San Francisco;
+
 }
 
 .bottom-section h2 {
